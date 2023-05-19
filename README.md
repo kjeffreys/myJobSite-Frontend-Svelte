@@ -1,2 +1,2 @@
 # myJobSite-Frontend-Svelte
-Svelte + Typescript front end for myJobSite.
+Svelte + Typescript frontend for myJobSite.
